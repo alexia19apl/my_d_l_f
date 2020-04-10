@@ -1,0 +1,9 @@
+version: '2'
+
+services:
+
+  ubuserver:
+    image: ubuntu:14.04
+    
+  apache:
+    image: centos:7
